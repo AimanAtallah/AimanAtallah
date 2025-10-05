@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AimanAtallah
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning swift
+
 
 
 <!---
